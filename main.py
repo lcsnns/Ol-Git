@@ -1,4 +1,3 @@
-print('Olá Git')
-print('Olá Git')
+print('ola developer')
 
 
